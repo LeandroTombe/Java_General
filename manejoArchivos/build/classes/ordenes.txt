@@ -1,0 +1,6 @@
+123456,Juan Perez,Celulares,iPhone 13,2
+123457,Homero Simpson,Celulares,Motorola G100,4
+123458,Carlos Sosa,Gadgets,Pendrive SanDisk 32GB,40
+123459,Lisa Simpson,Gadgets,Pendrive Kingston 64GB,30
+123460,Heber Ludueña,Electronica,Samsung Galaxy Fit2,5
+123461,Bart Simpson,Electronica,Apple Watch SE,2
