@@ -1,2 +1,2 @@
 # Java_General
- En este apartado mostrarè toda las "cosas" que haga con java
+ En este apartado mostraré toda las "cosas" que haga con java
